@@ -1,1 +1,2 @@
-# "Matching Colors" Game
+# "Matching Colors" Game.
+(please unzip file)
